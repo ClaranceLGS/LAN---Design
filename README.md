@@ -55,22 +55,13 @@ We used **Cisco Packet Tracer** to simulate:
 
 📜 Authors
 - Clarance L.G.S.
-[Teammates]
 - Kurrshanth V.
 - Miranda C.M.C.C.
 - Nirushtihan B.
 
 ---
 
-## 📂 **Folder Structure**
-```plaintext
-├── README.md 
-├── Backbone and ENTC LAN
-    ├──  # Cisco Packet Tracer file for backbone and ENTC simulation.
-    ├──  # Documentation
-├── Images  
-└── OSPF
-|-- 
+
 
 
 
