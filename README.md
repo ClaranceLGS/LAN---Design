@@ -10,9 +10,9 @@ This project focuses on designing the **backbone network** for the **University 
 ### **Key Objectives**:
 1. Design a long-term backbone network (20–25 years) for UOM.
 2. Ensure connectivity for:
-   - Academic faculties/departments.
-   - Administrative offices.
-   - Library and Data Center (CITeS).
+   - Academic faculties/departments
+   - Administrative offices
+   - Library and Data Center 
 3. Optimize the **total cost of cabling** while considering both **active** and **passive** systems.
 
 ---
@@ -29,9 +29,6 @@ This project focuses on designing the **backbone network** for the **University 
 2. **Active Systems**:
    - Network switches
    - Routers  
-3. **Passive Systems**:
-   - .
-   - Patch cords (copper & fiber).
 
 ---
 
