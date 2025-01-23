@@ -43,7 +43,7 @@ We used **Cisco Packet Tracer** to simulate:
 ### **Campus Backbone Network Layout**  
 ![Backbone Network Layout](Images/Backbone_Network.png)
 ### **ENTC Building Network Simulation**  
-![ENTC Network Diagram](Images)  
+![ENTC Network Diagram](Images/ENTC_Network.png)  
 
 
 
