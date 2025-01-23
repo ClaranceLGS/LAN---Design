@@ -14,6 +14,7 @@ This project focuses on designing the **backbone network** for the **University 
    - Administrative offices
    - Library and Data Center 
 3. Optimize the **total cost of cabling** while considering both **active** and **passive** systems.
+4. Configure routing for the backbone network using **OSPF**.
 
 ---
 
@@ -45,19 +46,32 @@ We used **Cisco Packet Tracer** to simulate:
 ### **ENTC Building Network Simulation**  
 ![ENTC Network Diagram](Images/ENTC_Network.png)  
 
+## 🚀 **How to Run the Simulation**
+1. Install Cisco Packet Tracer.
+2. Open Backbone_ENTC.pkt for the simulation.
+3. Open OSPF.pkt for the routing configuration.
 
+---
+
+📜 Authors
+- Clarance L.G.S.
+[Teammates]
+- Kurrshanth V.
+- Miranda C.M.C.C.
+- Nirushtihan B.
 
 ---
 
 ## 📂 **Folder Structure**
 ```plaintext
-├── README.md
-├── ENTC_network.pkt  # Cisco Packet Tracer file for ENTC simulation.
-├── Backbone_network.pkt  # Cisco Packet Tracer file for backbone network.
-└── Documentation
-    ├── Design_Diagram.pdf  # Detailed design of the network.
-    ├── Cost_Analysis.xlsx  # Cost breakdown.
-    └── Network_Components.md  # Description of active & passive systems.
+├── README.md 
+├── Backbone and ENTC LAN
+    ├──  # Cisco Packet Tracer file for backbone and ENTC simulation.
+    ├──  # Documentation
+├── Images  
+└── OSPF
+|-- 
+
 
 
 
