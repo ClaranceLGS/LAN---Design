@@ -40,11 +40,12 @@ We used **Cisco Packet Tracer** to simulate:
 ---
 
 ## 🖼️ **Visuals**
-### **ENTC Building Network Simulation**  
-![ENTC Network Diagram](https://via.placeholder.com/800x400.png?text=ENTC+Network+Simulation)  
-
 ### **Campus Backbone Network Layout**  
-![Backbone Network Layout](https://via.placeholder.com/800x400.png?text=Backbone+Network+Layout)
+![Backbone Network Layout](Images/Backbone_Network.png)
+### **ENTC Building Network Simulation**  
+![ENTC Network Diagram](Images)  
+
+
 
 ---
 
